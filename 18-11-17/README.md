@@ -14,3 +14,4 @@ and study it XD. It's funny to look at the process of those cars evolution tho.
 
 2. Find the source code of boxcar2d on github, see if it helps.
 
+3. NO! Too much code, won't help unless you can really look into those code.
